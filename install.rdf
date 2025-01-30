@@ -4,7 +4,7 @@
      xmlns:em="http://www.mozilla.org/2004/em-rdf#">
   <Description about="urn:mozilla:install-manifest">
     <em:id>sumatrapdf@teknixstuff.com</em:id>
-    <em:version>3.5.2</em:version>
+    <em:version>3.5.2.1</em:version>
     <em:type>2</em:type>
     <em:unpack>true</em:unpack>
     <em:iconURL>chrome://sumatrapdf/content/logo.png</em:iconURL>
